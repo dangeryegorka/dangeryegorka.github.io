@@ -18,7 +18,7 @@ btn1.addEventListener("click", function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText("Вы выбрали товар Кофе!");
+    tg.MainButton.setText("Ви обрали товар Кава!");
     item = "1";
     tg.MainButton.show();
   }
@@ -28,7 +28,7 @@ btn2.addEventListener("click", function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText("Вы выбрали товар Пицца!");
+    tg.MainButton.setText("Ви вибрали товар Піца!");
     item = "2";
     tg.MainButton.show();
   }
@@ -38,7 +38,7 @@ btn3.addEventListener("click", function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText("Вы выбрали товар Макарун!");
+    tg.MainButton.setText("Ви вибрали товар Макарун!");
     item = "3";
     tg.MainButton.show();
   }
@@ -48,7 +48,7 @@ btn4.addEventListener("click", function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText("Вы выбрали товар Круассан!");
+    tg.MainButton.setText("Ви вибрали товар Круасан!");
     item = "4";
     tg.MainButton.show();
   }
@@ -58,7 +58,7 @@ btn5.addEventListener("click", function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText("Вы выбрали товар Булочка!");
+    tg.MainButton.setText("Ви вибрали товар Булочка!");
     item = "5";
     tg.MainButton.show();
   }
@@ -68,7 +68,7 @@ btn6.addEventListener("click", function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText("Вы выбрали товар Печенье!");
+    tg.MainButton.setText("Ви вибрали товар Печиво!");
     item = "6";
     tg.MainButton.show();
   }
