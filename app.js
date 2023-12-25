@@ -58,7 +58,7 @@ btn5.addEventListener("click", function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText("Вы выбрали товар Булочка с корицей!");
+    tg.MainButton.setText("Вы выбрали товар Булочка!");
     item = "5";
     tg.MainButton.show();
   }
